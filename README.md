@@ -4,7 +4,7 @@ This repository provides a **trained model** for predicting the thermal conducti
 
 ### Summary
 
-- We built the **large experimental dataset** with **13,104 data points**, spanning **73 elements** and temperatures from **0 to 1481 K**.
+- We built the **large experimental dataset** with **13098 data points**, spanning **73 elements** and temperatures from **0 to 1481 K**.
 - Using **composition and temperature** as inputs, we train and benchmark multiple regression models and achieve **R² > 0.96** with **RMSE ≈ 0.37-0.54 W/m·K**.
 
 ### Inputs / Output
